@@ -1,284 +1,145 @@
 
 <div align="center">
-<h1><a href="https://www.instagram.com/genieincodebottle/"><img width="200" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/logo_genie.png">&nbsp;</a></h1>
-<h1>Gen AI Roadmap for Everyone - 2024</h1>
+<a href="https://www.instagram.com/genieincodebottle/"><img src="images/genie_logo.png"></a>
+<h1>Generative AI Roadmap - 2025</h1>
 </div>
+
 <div align="center">
-    <a target="_blank" href="https://www.youtube.com/@genieincodebottle"><img src="https://img.shields.io/badge/YouTube-10.2K-blue"></a>&nbsp;
-    <a target="_blank" href="https://github.com/genieincodebottle/generative-ai"><img src="https://img.shields.io/github/stars/genieincodebottle/generative-ai   "></a>&nbsp;
+    <a target="_blank" href="https://www.youtube.com/@genieincodebottle"><img src="https://img.shields.io/badge/YouTube-11.5K-blue"></a>&nbsp;
+    <a target="_blank" href="https://github.com/genieincodebottle/generative-ai"><img src="https://img.shields.io/github/stars/genieincodebottle/generative-ai"></a>&nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/rajesh-srivastava"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
-    <a target="_blank" href="https://www.instagram.com/genieincodebottle/"><img src="https://img.shields.io/badge/35.5K-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr/"></a>
+    <a target="_blank" href="https://www.instagram.com/genieincodebottle/"><img src="https://img.shields.io/badge/52K-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr/"></a>&nbsp;
+    <a target="_blank" href="https://medium.com/@raj-srivastava"><img src="https://img.shields.io/badge/Medium-12100E?style=round-square&style=for-the-badge&logo=medium"></a>&nbsp;
+    <a target="_blank" href="https://x.com/zero2nn"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40zero2nn"></a>
 </div>
-<hr></hr>
-Resources that should cover 85%+ of what you need for GenAI tasks. The field changes fast, but the basics stay the same. Don’t get lost in all the new stuff/models and focus on the fundamentals. Build projects as you learn. Spend at least an hour a day, and you’ll get a good grip on GenAI in 1-2 months.
-<br><br>
-Learning GenAI is essential now. Soon, it may be a desired requirements for all software roles. Get ready—it’s easier than you think.
-</br><br>
- PS: I planned to create a new GenAI learning playlist, where I am working on 7-8 projects, including 3 in production. However, personal and work things delayed it. I will try to record YouTube videos in the coming months to share insights from my 15+ months of production grade GenAI development experience.
+<br>
+Your go-to hub for end-to-end GenAI learning. ⭐ Star this repo to stay updated with the latest GenAI resources :)
 
-<hr></hr>
-<div align="center">
-   <img width="100" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/popular_resources_.png"> 
-   <br></br>
-   <a target="_blank" href="https://github.com/genieincodebottle/generative-ai/blob/main/docs/Essential_Terms_GenAI.pdf"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/genai_glossary_button_.png"></a>
-   <a target="_blank" href="https://github.com/genieincodebottle/generative-ai/blob/main/docs/GenAI_Interview_Questions-Draft.pdf"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/genai_interview_button_.png"></a>
-   <a target="_blank" href="https://github.com/genieincodebottle/generative-ai/blob/main/sample_setup_coding_interview/GenAI_Coding_Task_Overview.pdf"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/genai_coding_prep_button_.png"></a>
-   <a target="_blank" href="https://colab.research.google.com/drive/1u5b4BjIC2AGJb-8XomjIooSmBlbTDHLJ?usp=sharing"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/prompt_techniques.png"></a>
-   <a target="_blank" href="https://colab.research.google.com/drive/1aaU4YZC-fswSImo1fV-w67FXPQg5Ictm?usp=sharing"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/embedding_models.png"></a>
-   <a target="_blank" href="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/rag/advance_rag_decision_flow_chart.pdf"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/advance_rag.png"></a>
-   <a target="_blank" href="https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-project-lifecycle.pdf"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/genai_prj_lifecycle_button_.png"></a>
-   <a target="_blank" href="https://colab.research.google.com/drive/1yhpXqiF5BGjGwFHVWzzT_wpCGbR3PDZH?usp=sharing"><img width="150" height="40" src="https://github.com/genieincodebottle/generative-ai/blob/main/images/agents_button.png"></a>
-</div>
-<hr></hr>
 
-### 📚 Fundamentals of GenAI (1.2 Hr)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=2IK3DFHRFfw) - Generative AI in Nutshell
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=cZaNf2rA30k&list) - Intro to GenAI
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=RBzXsQHjptQ&list) - What is LLM 
-
-**Optional**
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=osKyvYJ3PRM) - What is LLM
-* **Useful LLM Concepts**
-   * [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=mh1RBdQeKdU&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=12) 
-   
-   * [Cohere Blog](https://cohere.com/blog/llm-parameters-best-outputs-language-ai)
-   
-   * [Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/Applied_LLMs_Mastery_2024)
-   
-   * [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Deep Learning Playlist (Famous 3blue1brown)
-<hr></hr>
-
-### 🤖 What is GPT? (28 Min) 
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=wjZofJX0v4M)
-<hr></hr>
-
-### ⚡What is Transformer? (10 Min)
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=SZorAJ4I-sA)
-<hr></hr>
-
-### 📜 Python 
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=kqtD5dpn9C8) - Python Core Crash Course (1 Hr)
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=7eh4d6sabA0) - Python DS Crash Course (49 Min)
-<hr></hr>
-
-### ☁️ Understanding Google Colab (22 Min)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=0egNLDwwCSk&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0)
-<hr></hr>
-
-### 🛠️ Why should you use Open Source LLM? (7 Min)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=y9k-U9AuDeM)
-<hr></hr>
-
-### 🤗 Huggingface Open Source Models (34 Min)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=wMqo7-d4T4Y&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=3)
-
-
-* [Official Doc](https://huggingface.co/)
-<hr></hr>
-
-### 🏠 Running LLM Locally using Ollama (~ 1.5 Hr)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/playlist?list=PL8motc6AQftkWtR16gGQWSVrH4bvbEETo)
-
-Some Cool examples (18 Min)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=h_GTxRFYETY)
-<hr></hr>
-
-### 🔗 LangChain
-
-> I prefer going through the LangChain documentation, which is well-written and includes example notebooks, as it updates very quickly. Referring to most of the LangChain YouTube videos might give you outdated content after a few weeks.
-
-* [Official Doc](https://www.langchain.com/)
-<hr></hr>
-
-### 🎯 Prompt Engineering
-
-* [Prompt Engineering Colab Notebook](https://colab.research.google.com/drive/1u5b4BjIC2AGJb-8XomjIooSmBlbTDHLJ?usp=sharing)
-* Course
-   * [Coursera Specialization](https://www.coursera.org/specializations/prompt-engineering)
-
-**Optional**
-* Blogs
-   * [Prompting Guide](https://www.promptingguide.ai/)
-   * [Google's Five Best practices for Prompt Engineering](https://cloud.google.com/blog/products/application-development/five-best-practices-for-prompt-engineering)
-   * [Google's doc of Prompt Engineering](https://developers.google.com/machine-learning/resources/prompt-eng)
-   * [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-   * [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks-into-simpler-subtasks)
-<hr></hr>
-
-### 📊 What is Vector Database?
-
-* [Pinecone Blog](https://www.pinecone.io/learn/vector-database/)
-<hr></hr>
-
-### 🗺️ What is Vector Embedding?
-
-* [Qdrant Blog](https://qdrant.tech/articles/what-are-embeddings/)
-* [How to choose right Embedding Model ?](https://colab.research.google.com/drive/1aaU4YZC-fswSImo1fV-w67FXPQg5Ictm#scrollTo=HxxOWz9dpsYj)
-<hr></hr>
-
-### 📖 RAG Tutorials (~2 Hr)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/playlist?app=desktop&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=u5Vcrwpzoz8&t)
-
-**Optional**
-* GitHub
-   * [Ragatouille-Book](https://github.com/sakunaharinda/ragatouille-book/tree/main)
-
-   * [Graph RAG (New)](https://github.com/microsoft/graphrag?tab=readme-ov-file )
-<hr></hr>
-
-### ⚖️ RAG Vs Prompt Engineering Vs Fine Tuning (15 Min)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=YVWxbHJakgg)
-<hr></hr>
-
-### 🔧 Fine Tuning LLM (~4 Hr)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
-<hr></hr>
-
-### 🤖 LLM Agents
-
-* [Deeplearning.ai Short Course - Agent](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
-* [Deeplearning.ai Autogen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
-* [Prompt Guide - LLM Agents](https://www.promptingguide.ai/research/llm-agents)
-* [Architecting & Testing reliable Agent (Using LangGraph)](https://docs.google.com/presentation/d/1QWkXi4DYjfw94eHcy9RMLqpQdJtS2C_kx_u7wAUvlZE/edit#slide=id.g273e7f400bc_0_0)
-   #### **Optional**
-* [Nvidia Blog](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
-* [Ttruefoundry Blog](https://www.truefoundry.com/blog/llm-agents#:~:text=Challenges-,Introduction,assistant%2C%20to%20plan%20a%20vacation.)
-* [Agpt Blog](https://docs.agpt.co/#agent)
-
-<hr></hr>
-
-### 🔀 What is MultiModel? (7 Min)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=WkoytlA3MoQ)
-* [Blog](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/mm_llms_guide.md)
-<hr></hr>
-
-### 🧠 What is Mixture of Experts (MoE) (~30 Min)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=mwO6v4BlgZQ)
-
-* [Huggingface MoE Blog](https://huggingface.co/blog/moe)
-<hr></hr>
-
-### 🎨 Streamlit for fast prototype UI
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=20V_ZB7taCM)
-
-* [Official Doc](https://docs.streamlit.io/)
-<hr></hr>
-
-### 🔍 LLM Evaluation
-
-* Blogs
-  * [LLM Evaluation Ultimate Guide](https://deci.ai/blog/llm-evaluation-ultimate-guide/)
-  * [Large Language Model Evaluation](https://research.aimultiple.com/large-language-model-evaluation/)
-  
-  **Optional**
-  * [LLM Evaluation](https://aisera.com/blog/llm-evaluation/)
-  * [Medium Blog](https://medium.com/@jeffreyip54/llm-evaluation-metrics-everything-you-need-for-llm-evaluation-6b129157e33c)
-<hr></hr>
-
-### 🏭 LLMOPs & Productionization of GenAI applications
-
-* [Deeplearning.ai Short Course](https://www.deeplearning.ai/short-courses/llmops/)
-* [Specialization](https://www.coursera.org/specializations/large-language-model-operations)
-<hr></hr>
-
-### 📚 GenAI Use Cases (Used free Gemini Pro & huggingface LLMs only)
-
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=0egNLDwwCSk) - How to setup Google Colab Notebook for free GPU
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=ZHX7zxvDfoc) - How to setup Google's free Gemini Pro API Key
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=fzkM-qkibpM) - Conversational Analytics (Full Stack GenAI App using React, MongoDB, Free Gemini Pro LLM, Docker, Authentication & Authorisation using JWT oken) 
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=PJTxPW5He7w) - Chat with Graph Database (Neo4j Graph Database, Gemini Pro LLM & Streamlit UI)
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=F9FBHTLJEBw) - Machine Translation (Gemini Pro LLM  & Streamlit UI) 
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=7yFxK0kGLNo) - Tagging (Gemini Pro LLM  & Streamlit UI) 
-* [Webscraping (Gemini Pro LLM  & Streamlit UI)](https://github.com/genieincodebottle/generative-ai/tree/main/genai_usecases/scrapgraph)
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=sztCQgZhwME&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0) - Chatbot with SQL Database (Huggingface Opensource LLM  & Streamlit UI)
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=c7mwwfsBGZ8&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=8) - Chatbot with CSV (Huggingface Opensource LLM)
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=yXPull517vE&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0) - Text to SQL generation (Huggingface Opensource LLM)
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?v=8ztk-f2PcrQ&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0) - Text Summarization (Huggingface Opensource LLM)
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-blue)](https://www.youtube.com/watch?app=desktop&v=nPpgh_KaNng) - Fully local RAG Agent with Llama3.1 (By LangChain Team)
-
-<hr></hr>
-
-### 📖 GenAI Glossary of terms
-
-* [PDF](https://github.com/genieincodebottle/generative-ai/blob/main/docs/Essential_Terms_GenAI.pdf)
-<hr></hr>
-
-### 📝 GenAI Interview Questions & Answers
-
-* [PDF](https://github.com/genieincodebottle/generative-ai/blob/main/docs/GenAI_Interview_Questions-Draft.pdf)
-<hr></hr>
-
-### 💻 GenAI Coding Round Preparation
-
-* [PDF](https://github.com/genieincodebottle/generative-ai/blob/main/sample_setup_coding_interview/GenAI_Coding_Task_Overview.pdf)
-<hr></hr>
-
-### 💻 GenAI Project Lifecycle
-
-* [PDF](https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-project-lifecycle.pdf)
-<hr></hr>
-
-### 🏆 LLM Leaderboard & Benchmarks
-
-* [Artificial Analysis AI](https://artificialanalysis.ai/)
-* [LMSYS](https://chat.lmsys.org/?leaderboard)
-* [Huggingface open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-<hr></hr>
-
-### 🤝 Contributing
-
-Contributions to add good impactful resources/codes to the list are welcome! 
-
-Here’s how you can help:
-
-1. **Fork the Repository**
-
-   Click on the "Fork" button at the top right corner of the page to create a personal copy of the repository.
-
-2. **Clone the Repository**
-
-   Clone your forked repository to your local machine:
-   ```bash
-   git clone https://github.com/genieincodebottle/generative-ai.git
-   ```
-
-3. **Create a New Branch**
-
-   Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b your-branch-name
-   ```
-
-4. **Make Your Changes**
-
-   Make your changes and commit them with a clear message:
-   ```bash
-   git commit -m "Brief description of your changes"
-   ```
-
-5. **Push Your Changes**
-Push your changes to your forked repository:
-   ```bash
-   git push origin your-branch-name
-   ```
-
-5. **Create a Pull Request**
-
-   Go to the original repository and create a pull request. Make sure to explain your changes and why they should be merged.
-
+### 🔗 Quick Links
+[GenAI Usecases](./genai-usecases/) | [n8n Automation](./genai-usecases/n8n-automation/) | [GenAI Essential Terms](https://github.com/genieincodebottle/generative-ai/blob/main/docs/essential-terms-genai.pdf) | [GenAI Interview Q & A](https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-interview-questions.pdf) | [GenAI on Azure](https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-with-azure-cloud.pdf) | [GenAI on AWS](https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-with-aws-cloud.pdf) | [GenAI on VertexAI](https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-with-vertexai.pdf) 
+
+### 📦 Comprehensive Prep Resources
+
+Each phase is split by week and builds progressively.
+
+> **Tip:** Expand or collapse each phase as you go using dropdowns (▸) to get all the relevant links.
+
+<details>
+<summary><strong>Phase 1: Foundation (Week 1-2)</strong></summary>
+
+| Topics | Core Material| Additional Resources | Code |
+|--------|------|-------|------|
+| AI vs ML vs DL vs GenAI | [Video](https://www.youtube.com/watch?v=qYNweeDHiyU) |||
+| GenAI Intro | [GenAI in Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw), [LLMs by 3b1b](https://youtu.be/LPZh9BOjkQs) | [LLM Blog](https://cohere.com/blog/llm-parameters-best-outputs-language-ai) ||
+| Python Basics | [Crash Course](https://www.youtube.com/watch?v=kqtD5dpn9C8), [ML Crash](https://www.youtube.com/watch?v=7eh4d6sabA0) |||
+| ML & DL Basics | [ML 101](https://www.youtube.com/watch?v=i_LwzRVP7bg), [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | [Crash DL](https://www.youtube.com/watch?v=VyWAvY2CF9c) ||
+</details>
+
+<details>
+<summary><strong>Phase 2: NLP & Transformer Core (Week 3-4)</strong></summary>
+
+| Topics                        | Core Material | Additional Resources | Code |
+|------------------------------|---------------|-----------------------|------|
+| NLP Basics                   | [YT - What is NLP?](https://www.youtube.com/watch?v=fLvJ8VdHLA0) |||
+| Inside the Transformer       | [YT - Transformer Explained Visually by 3b1b](https://www.youtube.com/watch?v=wjZofJX0v4M) <br> [Blog - The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/) |||
+| Tokenization & Embeddings    | [Blog - BPE Explainer (HuggingFace)](https://huggingface.co/learn/llm-course/en/chapter6/5) | [Blog - Embedding Explained](https://qdrant.tech/articles/what-are-embeddings/) <br> [Blog - Vector Db Explained](https://www.pinecone.io/learn/vector-database/) | [GitHub](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/embedding-models/how-to-choose-embedding-models.ipynb) |
+
+</details>
+
+<details>
+<summary><strong>Phase 3: LLM Fundamentals (Week 5-6)</strong></summary>
+
+| Topics                     | Core Material | Additional Resources | Code |
+|---------------------------|---------------|-----------------------|------|
+| Multimodal LLMs Basics    | [YT - How do Multimodal AI models work?](https://www.youtube.com/watch?v=WkoytlA3MoQ) |||
+| Mixture of Experts (MoE)  | [YT - What is Mixture of Experts?](https://www.youtube.com/watch?v=sYDlVVyJYn4) <br> [Blog - Visual Guide to MoE](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) | [Blog - Huggingface MoE](https://huggingface.co/blog/moe) ||
+| Open Weight LLMs (HF & Ollama) | [YT - Huggingface LLMs Locally](https://www.youtube.com/watch?v=Ay5K4tog5NQ) <br> [YT - Ollama](https://www.youtube.com/watch?v=h_GTxRFYETY) || [GitHub-HF](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/huggingface_models.ipynb) <br> [GitHub-Ollama](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/ollama) |
+| AI Frameworks             | [LangChain](https://python.langchain.com/docs/introduction/) <br> [LlamaIndex](https://docs.llamaindex.ai/en/stable/) |||
+| Prompt Engineering        | [Coursera Specialization](https://www.coursera.org/specializations/prompt-engineering) | [Kaggle Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering) | [GitHub](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/prompt-engineering) <br> [Colab Notebook](https://colab.research.google.com/drive/1xZ_QyAFtg2pGv_USPAfdfHRiVu1a1cFb?usp=sharing) |
+
+</details>
+
+<details>
+<summary><strong>Phase 4: RAG & Agentic Systems (Week 7-8)</strong></summary>
+
+| Topics                      | Core Material | Additional Resources | Code |
+|----------------------------|---------------|-----------------------|------|
+| Retrieval-Augmented Generation (RAG) | [Blog - Advance RAG Techniques](https://8738733.fs1.hubspotusercontent-na1.net/hubfs/8738733/eBooks/Weaviate-Advanced-RAG-Techniques-ebook.pdf) <br> [PDF - RAG Decisions](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/advance-rag/advance-rag-decision-flow-chart.pdf) <br> [Agentic RAG Guide](https://github.com/microsoft/ai-agents-for-beginners/blob/main/05-agentic-rag/README.md) || [GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/genai-usecases/advance-rag) |
+| Agentic AI                 | [Blog - Building Agents (Claude)](https://www.anthropic.com/research/building-effective-agents) <br> [Huggingface Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) | [Blog - Chip Huyen](https://huyenchip.com/2025/01/07/agents.html) <br> [Google Whitepaper](https://www.kaggle.com/whitepaper-agents) | [GitHub-NirDimant](https://github.com/NirDiamant/GenAI_Agents) <br> [GitHub-Agentic](https://github.com/genieincodebottle/generative-ai/tree/main/genai-usecases/agentic-ai) <br> [LangGraph](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials/multi_agent) |
+
+</details>
+
+<details>
+<summary><strong>Phase 5: Optimization & Evaluation (Week 9-10)</strong></summary>
+
+| Topics                      | Core Material | Additional Resources | Code |
+|----------------------------|---------------|-----------------------|------|
+| Fine Tuning                | [YT - Shaw Talebi](https://www.youtube.com/watch?v=eC6Hd1hFvos) || [GitHub-ShawhinT](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/fine-tuning) <br> [GitHub-Unsloth](https://github.com/unslothai/unsloth?tab=readme-ov-file) |
+| Inference Optimization & Quantization | [Course - Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/) <br> [Blog - GGUF](https://huggingface.co/docs/hub/en/gguf) <br> [Blog - GGML](https://huggingface.co/blog/introduction-to-ggml) | [Unsloth](https://github.com/unslothai/unsloth) <br> [GPTQModel](https://github.com/ModelCloud/GPTQModel) ||
+| Knowledge Distillation     | [Blog - Huggingface](https://huggingface.co/blog/Kseniase/kd) |||
+| LLM Evaluation             | [Guide - LLM Evaluation](https://arize.com/llm-evaluation) <br> [Tool - RAGA](https://docs.ragas.io/en/stable/) <br> [Tool - Opik](https://www.comet.com/site/products/opik/) <br> [Tool - DeepEval](https://www.deepeval.com/) | [Blog](https://research.aimultiple.com/large-language-model-evaluation/) |  |
+</details>
+
+<details>
+<summary><strong>Phase 6: Deployment & LLMOps (Week 11-12)</strong></summary>
+
+| Topics                      | Core Material | Additional Resources | Code |
+|----------------------------|---------------|-----------------------|------|
+| LLMOps                     | [Coursera Specialization](https://www.coursera.org/specializations/large-language-model-operations) <br> [Deeplearning AI Course](https://www.deeplearning.ai/short-courses/llmops/) |||
+| GenAI in Production        | [YT - Explaining Code](https://www.youtube.com/watch?v=x2P4Ee6PYNg) || [GitHub Code](https://github.com/genieincodebottle/rag-app-on-aws) |
+| Safety & Alignment         | [LlamaGuard](https://cloudyuga.guru/blogs/securing-ai-applications-with-llamaguard/) <br> [Prompt Guard](https://www.llama.com/llama-protections/) | [Constitutional AI](https://arxiv.org/html/2501.09004v1) | Work in Progress |
+| LLM Leaderboard            | [Chatbot Arena](https://lmarena.ai/?leaderboard) <br> [Artificial Analysis AI](https://artificialanalysis.ai/leaderboards/models) <br> [Aider](https://aider.chat/docs/leaderboards/) |||
+
+</details>
+
+
+### 🛠️ Tools | Frameworks
+
+| Category  | Link  | 
+|------------|----------------|
+| IDE & Dev Playground  |[Colab NoteBook](https://colab.research.google.com/notebooks/basic_features_overview.ipynb), [Kaggle Notebook](https://www.kaggle.com/code), [VSCode](https://code.visualstudio.com/docs/introvideos/basics), [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)||
+| LLM Aggregators  |[litellm](https://github.com/BerriAI/litellm), [Openrouter](https://openrouter.ai/docs/quickstart), [Aisuite](https://github.com/andrewyng/aisuite)||
+| Agentic AI Framewords |[CrewAI](https://docs.crewai.com/introduction), [Relevenve AI](https://relevanceai.com/), [LangGraph](https://langchain-ai.github.io/langgraph/tutorials/introduction/), [SuperAGI](https://superagi.com/), [SmolAgent](https://huggingface.co/blog/smolagents), [OpenAI Agent SDK](https://openai.github.io/openai-agents-python/), [Google's ADK](https://google.github.io/adk-docs/)||
+| AI Automation (Workflow + AI Integration)  |[n8n](https://n8n.io/), [Zapier](https://zapier.com/), [Make](https://www.make.com/en)||
+| Cloud Agentic Framework  |[Microsoft Agent](https://github.com/microsoft/Agents), [AWS Bedrok Agent](https://aws.amazon.com/bedrock/agents/)||
+| Model Context Protocol (MCP) |[YT- MCP Clearly Explained](https://www.youtube.com/watch?v=7j_NE6Pjv-E) <br> [YT- MCP Crash Course for Python Developers](https://www.youtube.com/watch?v=5xqFjh56AwM) <br> [Official Claude Doc](https://modelcontextprotocol.io/introduction) <br> [GitHub-Awsome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)||
+| Agent2Agent Protocol (A2A) |[Video - Demo](https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2A_demo_v4.mp4) <br> [Specification](https://google.github.io/A2A/) <br> [GitHub](https://github.com/google/A2A)||
+| AI Coding Assistants |[Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview), [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/), [Cursor](https://www.cursor.com/), [Bolt](https://bolt.new/), [Lovable](https://lovable.dev/), [Replit](https://replit.com/), [V0](https://v0.dev/) ||
+
+### 💡 GenAI Use Cases
+
+| Usecase  | Link  | 
+|------------|----------------|
+| Example Code for Running API-Based LLM | [Groq](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/groq.ipynb), [Claude](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/claude.ipynb), [OpenAI](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/openai.ipynb), [Gemini](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/gemini.ipynb), [DeepSeek](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/deepseek.ipynb), [Cohere](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/cohere.ipynb) |
+| Example Code for Running LLMs Locally | [Huggingace](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/huggingface_models.ipynb), [Ollama Local](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/llm-providers/ollama), [Ollama at Colab](https://colab.research.google.com/drive/1TrB6dLCSBdSDXcauQ1lofgWDiiEbQXHw?usp=sharing), [LMStudio](https://lmstudio.ai/) |
+| Run FastMCP based Websearch Remote MCP Server Locally |[GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/genai-usecases/mcp)|
+| Production-Grade GenAI on AWS: RAG with Remote MCP Server |[YouTube](https://www.youtube.com/watch?v=x2P4Ee6PYNg) <br/> [GitHub](https://github.com/genieincodebottle/rag-app-on-aws)|
+| Llama 4 Scout – All-in-One App for Chat, OCR, RAG & Agentic AI with CrewAI |[GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/genai-usecases/llama-4-multi-function-app)|
+| Advanced Snapshot-Based PDF Parsing using Docling, Markitdown, Gemini, Llama 4, Claude, GPT-4 & more |[YouTube](https://www.youtube.com/watch?v=26thuRsxiUc) <br> [GitHub](https://github.com/genieincodebottle/parsemypdf)|
+| Optical Character Recognition Using Advanced Vision-Language Models |[GitHub](https://github.com/genieincodebottle/parsemypdf/tree/main/vlm_ocr)|
+| Chat with Neo4j Graph DB  |[YouTube](https://www.youtube.com/watch?v=PJTxPW5He7w) <br> [GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/genai-usecases/graph-qa)|
+| LLM-Based Chatbot for SQL Data Interaction |[GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/archived/text-to-sql)|
+|  LLM-Driven Chatbot to Interact with CSV Data |[YouTube](https://www.youtube.com/watch?v=c7mwwfsBGZ8) <br> [GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/archived/csv-rag)|
+| Cache-Augmented Generation (CAG) |[GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/genai-usecases/cache_augmeted_generation) |
+| AI Chat Analyzer for ChatGPT & Claud |[GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/genai-usecases/your_ai_chat_analytics) |
+
+### 📘 Misc Useful References
+
+| Category | Links |
+|-------------|---------|
+| Prompt Engineeing       | [GitHub](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/prompt-engineering) |
+| RAG   | [Pdf](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/advance-rag/advance-rag-decision-flow-chart.pdf) |
+| Agentic AI   | [GitHub](https://github.com/genieincodebottle/generative-ai/tree/main/genai-usecases/agentic-ai) |
+| Misc   | [Embedding Models](https://github.com/genieincodebottle/generative-ai/blob/main/genai-usecases/embedding-models/how-to-choose-embedding-models.ipynb), [GenAI Project Lifecycle](https://github.com/genieincodebottle/generative-ai/blob/main/docs/genai-project-lifecycle.pdf) |
+
+
+### 📘 Imp Research Papers
+
+| Title | Links |
+|-------------|---------|
+|Kimi K2: Open Agentic Intelligence|[Link](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)|
+|Gemini 2.5|[Link](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf)|
+|DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning|[Link](https://arxiv.org/abs/2501.12948)|
+|DeepSeek-V3 Technical Report|[Link](https://arxiv.org/abs/2412.19437)|
+|Mixtral of Experts|[Link](https://arxiv.org/abs/2401.04088)|
